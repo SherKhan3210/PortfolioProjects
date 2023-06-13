@@ -1,5 +1,18 @@
 # PortfolioProjects
 
+https://public.tableau.com/app/profile/sher.khan5053
+
+# HR Absence Hours Project
+I imported a Kaggle HR Dataset to excel...
+- I cleaned the data by removing rows where the age was below 18 (No one at this company is under the age of 18)
+- I removed rows with missing values
+
+I imported to SQL and ran queries to group the data by department, location, gender, age range, and length of service. I then moved
+the data to tableau and created a dashboard that allows the user to filter by these metrics. This allows for HR to take a deep look into
+the average amount of hours that different groups of employees are absent throughout the year. From this they can determine courses of
+action to take in order to ensure that employees are not taking excessive amounts of unnecessary absence.
+
+
 # NBA Project
 I created 3 tables using excel:
 - One for the defensive and offensive ratings of NBA teams from 1992-2022
